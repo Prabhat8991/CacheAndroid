@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.awesomeproject" >
+5
+6    <uses-sdk android:minSdkVersion="21" />
+7
+8    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+8-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/debug/AndroidManifest.xml:6:5-77
+8-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/debug/AndroidManifest.xml:6:22-75
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:5-67
+9-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:22-64
+10
+11    <application
+11-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:6:5-21:19
+12        android:name="com.awesomeproject.MainApplication"
+12-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:7:7-38
+13        android:allowBackup="false"
+13-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:11:7-34
+14        android:icon="@mipmap/ic_launcher"
+14-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:9:7-41
+15        android:label="@string/app_name"
+15-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:8:7-39
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:10:7-52
+17        android:theme="@style/AppTheme"
+17-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:12:7-38
+18        android:usesCleartextTraffic="true"
+18-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/debug/AndroidManifest.xml:9:9-44
+19        tools:ignore="GoogleAppIndexingWarning"
+19-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/debug/AndroidManifest.xml:11:9-48
+20        tools:targetApi="28" >
+20-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/debug/AndroidManifest.xml:10:9-29
+21        <activity
+21-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/debug/AndroidManifest.xml:12:9-111
+22            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+22-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/debug/AndroidManifest.xml:12:19-83
+23            android:exported="false" />
+23-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/debug/AndroidManifest.xml:12:84-108
+24        <activity
+24-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:13:7-20:18
+25            android:name="com.awesomeproject.MainActivity"
+25-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:14:9-37
+26            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+26-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:16:9-118
+27            android:exported="true"
+27-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:9-32
+28            android:label="@string/app_name"
+28-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:15:9-41
+29            android:launchMode="singleTask"
+29-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:17:9-40
+30            android:windowSoftInputMode="adjustResize" >
+30-->/Users/prabhat.singh/Downloads/TestReactnativeApp/AwesomeProject/android/app/src/main/AndroidManifest.xml:18:9-51
+31        </activity>
+32    </application>
+33
+34</manifest>
